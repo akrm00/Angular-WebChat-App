@@ -1,0 +1,40 @@
+<head>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+  <div class="ipad">
+      <div class="camera"></div>
+      <div class="speaker"></div>
+      <div class="main-container">
+          <!-- Chat Bubble -->
+          <div class="chat-bubble">
+              <img src="/assets/user.png" alt="User">
+              <span>{{username}}</span>
+              <h2>Live Chat</h2>
+          </div>
+
+          <!-- login-messages -->
+          <div class="chat-messages">
+            <div
+              *ngFor="let msg of chatMessages"
+              [ngClass]="{
+                'my-message': msg.sender === 'You',
+                'other-message': msg.sender !== 'You' && msg.type === 'chat',
+                'system-message': msg.type === 'info'
+              }"
+              class="chat-message"
+            >
+              <h3 *ngIf="msg.type === 'chat'">{{ msg.sender }}</h3>
+              {{ msg.text }}
+            </div>
+          </div>
+
+          <!-- Input Area -->
+          <div class="input-area">
+              <input type="text" [(ngModel)]="message" placeholder="Enter a message ...">
+              <button (click)="sendMessage()"><span class="material-icons">send</span></button>
+          </div>
+      </div>
+      <div class="home-button"></div>
+  </div>
+</body>

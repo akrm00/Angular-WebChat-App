@@ -1,0 +1,27 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "A real-time chat application using Angular and Socket.IO",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "build": "ng build",
+    "test": "ng test"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0",
+    "@angular/core": "^12.0.0",
+    "@angular/common": "^12.0.0",
+    "@angular/platform-browser": "^12.0.0",
+    "@angular/platform-browser-dynamic": "^12.0.0",
+    "@angular/forms": "^12.0.0",
+    "@angular/router": "^12.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4",
+    "@angular/cli": "^12.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

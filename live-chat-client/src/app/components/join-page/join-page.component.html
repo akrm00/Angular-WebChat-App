@@ -1,0 +1,23 @@
+<head>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+    <div class="ipad">
+      <div class="camera"></div>
+      <div class="speaker"></div>
+      <div class="main-container">
+        <!-- Chat Bubble -->
+        <div class="chat-bubble">
+          <img src="/assets/user.png" alt="User">
+          <span>Enter a username to join the chat</span>
+        </div>
+  
+        <!-- Input Area -->
+        <div class="input-area">
+          <input type="text" [(ngModel)]="username" placeholder="Enter a username">
+          <button (click)="joinChat()"><span class="material-icons">send</span></button>
+        </div>
+      </div>
+      <div class="home-button"></div>
+    </div>
+  </body>
