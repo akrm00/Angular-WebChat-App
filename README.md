@@ -18,7 +18,7 @@ Welcome to the **Real-Time Web Chat Application**, a modern, feature-rich web ap
 
 Explore the default interface of the Real-Time Web Chat Application:
 
-![Default Interface](https://placeholder.com/image1.png)
+![Default Interface](screenshot/default.PNG)
 
 
 ## **Features**
@@ -54,19 +54,19 @@ Explore the default interface of the Real-Time Web Chat Application:
 ## **Screenshots**
 
 ### **Default Interface**
-![Default Interface](https://placeholder.com/image1.png)
+![Default Interface](screenshot/default.PNG)
 
 ### **Stylish Scrollable Chat**
-![Scrollable Chat](https://placeholder.com/image2.png)
+![Scrollable Chat](screenshot/exemple1.PNG)
 
 ### **Multi-User Support**
-![Multi-User Chat](https://placeholder.com/image3.png)
+![Multi-User Chat](screenshot/exemple2.PNG)
 
 ### **User Disconnection Management**
-![User Disconnections](https://placeholder.com/image4.png)
+![User Disconnections](screenshot/exemple3.PNG)
 
 ### **Mobile View**
-![Mobile View](https://placeholder.com/image5.png)
+![Mobile View](screenshot/exemple4.PNG)
 
 ## **Getting Started**
 
