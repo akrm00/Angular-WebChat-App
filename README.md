@@ -53,9 +53,6 @@ Explore the default interface of the Real-Time Web Chat Application:
 
 ## **Screenshots**
 
-### **Default Interface**
-![Default Interface](screenshot/default.PNG)
-
 ### **Stylish Scrollable Chat**
 ![Scrollable Chat](screenshot/exemple1.PNG)
 
@@ -105,7 +102,6 @@ This will start the Node.js server on [http://localhost:3000](http://localhost:3
 
 
 ## **Future Enhancements**
-- **Emoji Support**: Add the ability to send emojis in messages.
 - **Private Messaging**: Enable one-on-one private conversations.
 - **Themes**: Allow users to customize the chat interface theme.
 
