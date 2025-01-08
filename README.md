@@ -4,14 +4,14 @@ Welcome to the **Real-Time Web Chat Application**, a modern, feature-rich web ap
 
 ## **Table of Contents**
 
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Screenshots](#screenshots)
-4. [Technologies Used](#technologies-used)
-5. [Getting Started](#getting-started)
-6. [Future Enhancements](#future-enhancements)
-7. [Author](#author)
-8. [License](#license)
+- [Overview](#overview)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Future Enhancements](#future-enhancements)
+- [Author](#author)
+- [License](#license)
 
 
 ## **Overview**
