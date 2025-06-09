@@ -109,7 +109,7 @@ This will start the Node.js server on [http://localhost:3000](http://localhost:3
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## **Author**
-This application was created and maintained by **Akram Lourhmati**.
+This application was created and maintained by **akrm00**.
 
 
 
