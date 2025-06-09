@@ -1,4 +1,4 @@
-# Real-Time Web Chat Application
+# Small-Webchat-Angular
 
 Welcome to the **Real-Time Web Chat Application**, a modern, feature-rich web application enabling users to communicate seamlessly in real-time. Built with **Angular**, **Socket.IO**, and **Node.js**, this application delivers a responsive, dynamic, and interactive chatting experience.
 
